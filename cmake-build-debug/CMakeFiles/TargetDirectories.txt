@@ -1,0 +1,3 @@
+/home/seth/CLionProjects/CGlions/cmake-build-debug/CMakeFiles/CGlions.dir
+/home/seth/CLionProjects/CGlions/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/seth/CLionProjects/CGlions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
